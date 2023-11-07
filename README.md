@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadowjumper3000
-- 👀 I’m interested in ... Coding, Airsoft, Videogames
+- 👀 I’m interested in ... Coding, Airsoft, Artificial Intelligence
 - 🌱 I’m currently learning ... Python, Javascript, C++
 - 💞️ I’m looking to collaborate on ... Coding, Development/learning in general
 - 📫 How to reach me ... Github
