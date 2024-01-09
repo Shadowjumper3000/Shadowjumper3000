@@ -1,4 +1,4 @@
-# Shadowjumper3000
+# David Hörz
 ## Education
 - currently studying Computer Science and Artificial Intelligence
 ## Interests
